@@ -1,1 +1,3 @@
-# aide_memoire
+# AIDE MEMOIRE
+
+Collection d'aide-mémoires

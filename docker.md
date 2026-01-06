@@ -226,7 +226,8 @@ docker push <nom du repository dockerhub>
 ```
 
 ## Docker-compose
-Être positionner dans le répertoire contenant le fichier docker-compose.yml
+
+Être positionné dans le répertoire contenant le fichier docker-compose.yml
 
 ### docker-compose.yml simple
 
@@ -345,7 +346,7 @@ services:
             - "<port local>":"<port dans le conteneur>"
 ```
 
-### Construire une image personnalisé
+### Construire une image personnalisée
 
 ```docker
 services:
